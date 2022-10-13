@@ -1,5 +1,10 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## 21343083_Mubarakh Hayatna Khairy
+
+pada pertemuan kali ini kita mempelajari mengenai bagaimana penggambarkan dan penerapkan struktur kontrol (for, while dan do-while) yang digunakan untuk menyerang blok kode yang akan dieksekusi menggunakan bahasa pemrograman Java dengan IDE.
+Dalam pembelajaran kali ini, kita akan menerapkan penggunaan loop (for, while dan do-while) untuk tugas 1 dan 2, dan untuk tugas 3 kita akan menggunakan loop bersarang dengan for loop. 
+
+Pemabahan materi :
+1. mendeskripsikan dan mengimplementasikan struktur kontrol (for) yang digunakan untuk mengulang blok kode yang akan dieksekusi menggunakan bahasa pemrograman Java dengan IDE. 
+2. menjelaskan dan mengimplementasikan struktur kontrol kontrol (sementara) yang digunakan untuk mengulangi blok kode yang akan dieksekusi menggunakan bahasa pemrograman Java dengan IDE. 
+3. mendeskripsikan dan mengimplementasikan struktur line control (do-while) yang digunakan untuk mengulang suatu blok kode yang akan dieksekusi menggunakan bahasa pemrograman Java dengan IDE. 
+4. Dalam semua bahasa pemrograman, penanganan proses ditangani oleh mekanisme yang disebut loop. Menggunakan loop, proses iteratif misalnya menampilkan teks yang sama seratus kali pada lapisan dapat diimplementasikan dengan kode program pendek.
